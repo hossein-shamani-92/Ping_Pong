@@ -1,6 +1,16 @@
 # Ping Pong
 
 A simple 2D Ping Pong game built with Python and Pygame.
+## Project Preview
+
+### Gameplay
+
+![Gameplay](assets/preview/gameplay.png)
+
+### Game Over
+
+![Game Over](assets/preview/game-over.png)
+
 
 ## Features
 
