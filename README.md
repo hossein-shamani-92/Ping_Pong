@@ -9,7 +9,7 @@ A simple 2D Ping Pong game built with Python and Pygame.
 
 ### Game Over
 
-![Game Over](assets/preview/game-over.png)
+![Game Over](assets/preview/gameover.png)
 
 
 ## Features
